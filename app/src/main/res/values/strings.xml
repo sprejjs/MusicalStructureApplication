@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Musical Structure Application</string>
+    <string name="btn_shuffle_all_music">Shuffle all music</string>
+    <string name="btn_view_all_artists">View all artists</string>
+    <string name="btn_store">Store</string>
+    <string name="activity_store_description">This activity is going to be used to purchase new music from an online store.</string>
+    <string name="activity_artists_title">All Artists</string>
+</resources>
