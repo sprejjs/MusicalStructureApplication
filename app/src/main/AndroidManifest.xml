@@ -16,9 +16,14 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".PlayActivity" />
-        <activity android:name=".StoreActivity" />
-        <activity android:name=".ArtistsActivity" />
+        <activity android:name=".PlayActivity"
+            android:label="Play Activity"/>
+
+        <activity android:name=".StoreActivity"
+            android:label="Music Store"/>
+
+        <activity android:name=".ArtistsActivity"
+            android:label="List of artists"/>
     </application>
 
 </manifest>
