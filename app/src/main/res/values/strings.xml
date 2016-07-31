@@ -5,4 +5,7 @@
     <string name="btn_store">Store</string>
     <string name="activity_store_description">This activity is going to be used to purchase new music from an online store. I would build it with the help of multiple different libraries including ButterKnife to avoid the code repetition, Gson to map json responses to my model, Retrofit to make network calls and In-app Billing to accept the payments from the users.</string>
     <string name="activity_artists_title">All Artists</string>
+    <string name="activity_play_explanation">This activity would be used to play the music.</string>
+    <string name="activity_main_explanation">This activity would be used as the home screen for the users.</string>
+    <string name="activity_artists_explanation">This activity would be used for the users to pick an artist to listen to.</string>
 </resources>

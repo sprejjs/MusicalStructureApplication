@@ -56,4 +56,9 @@
 
     </LinearLayout>
 
+    <TextView
+        android:text="@string/activity_play_explanation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
